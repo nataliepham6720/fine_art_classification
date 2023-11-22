@@ -1,7 +1,6 @@
 # Fine Art Classification - CMU 38616 Final Project
 
 ![image](https://github.com/nataliepham6720/fine_art_classification/assets/112508461/f3d81e89-8ba4-4c1b-9e79-b608175d0fc2)
-![image](https://github.com/nataliepham6720/fine_art_classification/assets/112508461/7e4a4aa1-81ee-4d84-80d5-ebb3a28096c1)
 
 
 
